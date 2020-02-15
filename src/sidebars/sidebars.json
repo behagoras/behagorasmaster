@@ -11,26 +11,28 @@
     "entry": "Get Started",
     "name": "Get Started",
     "items": [
-      "docs/get-started/introduction",
-      "docs/get-started/quick-start"
+      "docs/get-started/introduction"
     ]
   },
   {
     "entry": "Guide",
     "name": "Guide",
     "items": [
-      "docs/guide/anchor",
-      "docs/guide/contents",
-      "docs/guide/menu-items",
-      "docs/guide/sidebar"
+      "docs/guide/manual-del-programador"
     ]
   },
   {
     "entry": "Blog",
     "name": "Blog",
+    "child_entries": [
+      "Mi Blog"
+    ]
+  },
+  {
+    "entry": "Mi Blog",
+    "name": "Mi Blog",
     "items": [
-      "blog/first-blog",
-      "blog/second-blog"
+      "blog/como-conoci-la-experiencia-de-usuario"
     ]
   }
 ]

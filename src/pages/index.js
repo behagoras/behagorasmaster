@@ -11,14 +11,43 @@ const IndexPage = () => {
         <div align="center">
         <br/>
           <p style={{color: "cornflowerblue", fontSize: 50, fontWeight: 'bold'}}>
-            Gatsby Markdown Starter
+          Hola, soy Behar
           </p>
-          <h2>Boilerplate for markdown-based website</h2>
+
+          <blockquote>
+            <p>
+              <strong>Frontend Developer</strong> con un background único:
+            </p>
+          </blockquote>
+
+          <p>
+            Me gusta hablar de&nbsp;<strong>diseño interactivo</strong> y <strong>experiencia de usuario</strong>&nbsp;de la misma manera que <strong>me encanta programar</strong>. Tengo más de <strong>2 años</strong> de experiencia&nbsp;<strong>programando para&nbsp;web</strong> y más de 9 años en la <strong>industria del software</strong>.
+          </p>
+          <p>
+            He trabajado en las principales <strong>agencias de desarrollo</strong>, agencias del <strong>gobierno&nbsp;estatal</strong> y <strong>plataformas educativas</strong>. Me encanta <strong>hablar con los clientes</strong> y&nbsp;tengo una obsesión&nbsp;en crear&nbsp;<strong>software útil</strong> que haga que los humanos tengan <strong>éxito profesional y personalmente</strong>.
+          </p>
+          <p>
+            ¿Experiencia de usuario? ✅ ¿Investigación y diseño? ✅. ¿Código? ✅.
+          </p>
+          <p>
+            Entiendo que, para satisfacer las <strong>expectativas de los usuarios</strong>, uno debe hacer bien su tarea e <strong>investigar</strong>. Disfruto trabajando en entornos donde me <strong>desafían constantemente</strong> y donde puedo tener la libertad de <strong>experimentar</strong> y <strong>fallar</strong>.
+          </p>
+          <p>
+            Si desea saber más, envíame un correo. Me encanta conocer gente nueva, así que no seas tímido.
+          </p>
+          <p>¡<a href="https://behar.io/contacto/">Charlemos</a>!</p>
+
+
+
+
           <br/>
           <Link to="/docs/get-started/introduction">
-            <Button type="primary" size="large" icon="right-circle" style={{marginRight: 10}}>Get Started</Button>
+            <Button type="primary" size="large" icon="right-circle" style={{marginRight: 10}}>Recursos para programadores</Button>
           </Link>
-          <Button type="primary" size="large" icon="github" href="https://github.com/cvluca/gatsby-starter-markdown">Github</Button>
+          <Link to="/blog">
+            <Button type="primary" size="large" icon="right-circle" style={{marginRight: 10}}>Blog</Button>
+          </Link>
+          <Button type="primary" size="large" icon="github" href="https://github.com/behagoras">Aporta a este repositorio</Button>
         </div>
       </div>
     </Layout>
