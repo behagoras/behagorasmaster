@@ -35,23 +35,22 @@ Para estar en el mismo canal, me gustaría proponer un glosario (porque puedo en
 
 # La estrategia
 
-Para esta estrategia confío en [rugdoctor](https://rugdoc.io). por lo tanto sólo entro a proyectos auditados por la [Rug Doctor](bit.ly/JoinRugSteemer)  y que tengan una seguridad al menos media.
+Para esta estrategia confío en puros proyectos que tengan una auditoría, las auditorías no son perfectas, pero **normalmente** nos protegen de Hard rug pulls (aunque hay proyectos que tienen auditoría y que tienen hard rugs)
 
 
-1. Todos los días entro a [rugdoc.io](https://rugdoc.io) y al [telegram de la Rug Doctor](bit.ly/JoinRugSteemer) buscando nuevas granjas **filtrando** sólo las que **no estén en rojo ni en amarillo** y estén en la red de **MATIC**, si aún no ha empezado, es buen momento para revisarla.
-1. Entrar al **telegram** del DEX  y buscar **red flags**.
-1. Antes de empezar las farms probar que te **permitan retirar y depositar dinero** (con $1 USD)
-1. Cuando **empiecen las granjas**, meter en un **lp y en estables** y probar la red (depósitos, retiros y harvest)
-1. Meter el **25%** de lo que quieras meter en los farms/pools con mejores apr's de sólo estables
-1. Esperar **25 minutos**, meter otro **25%** de lo que quieras meter en los farms/pools con **mejores apr's** de sólo estables (pueden, o no, ser los que elegiste en el paso pasado])
+1. Encontrar un proyecto que esté auditado y que el equipo parezca serio. ([DYOR](https://www.youtube.com/watch?v=HCLWDGYnAzk&t=483s))
+1. Lo mínimo que podemos hacer es entrar al **telegram** del DEX y revisar las auditorías (desde la página de los auditores), **si hay red flags, no entrar.**
+1. Antes de empezar las farms probar que te **permitan retirar y depositar dinero** (con $1 USD).
+1. Cuando **empiecen las granjas**, meter en un **lp y en estables** y probar la red (depósitos, retiros y harvest), si todo está bien, seguir al siguiente punto.
+1. Meter el **25%** de lo que quieras meter en los farms/pools con mejores apr's de sólo estables, si todo está bien, seguir al siguiente punto.
+1. Esperar **25 minutos**, meter otro **25%** de lo que quieras meter en los farms/pools con **mejores apr's** de sólo estables (pueden, o no, ser los que elegiste en el punto anterior), si todo está bien, seguir al siguiente punto.
 1. Esperar **1 hora**, meter el otro **50%**.
 1. Hacer **harvest** (recolectar) cada **15 minutos** (o cuando te sientas cómodo) e inmediatamente pasarlo a estable (por el primer día).
-1. Días subsecuentes hacer harvest cada **4 u 8 horas** y pasar a estable (repetir hasta encontrar una nueva granja)
-1. Si una granja empieza a dar **menos del 100%** de APR, considero sacar el dinero para tener liquidez para una nueva granja
-1. Estar atento a que no cambie de status el proyecto en rugdoc.io, ni ella es perfecta auditando.
-1. Estar atento al telegram de la rug doctor y del DEX para ver si hay personas que adviertan sobre posibles scams
+1. Días subsecuentes hacer harvest cada **4 u 8 horas** y pasar a estable (repetir hasta encontrar una nueva granja).
+1. Si una granja empieza a dar **menos del 100%** de APR, considero sacar el dinero para tener liquidez para una nueva granja.
+1. Estar atento a las comunidades del proyecto y a auditores profesionales, ahí suelen salir los red flags más rápido.
 
-Si algo es scam, buscar la manera más segura de sacar los fondos, ya sea desde el contrato o desde la UI (página web)
+Si algo es scam, buscar la manera más segura de sacar los fondos, ya sea desde el contrato o desde la UI (página web).
 
 ## Qué considero como moneda estable?
 
@@ -98,19 +97,19 @@ O que
 
 Los soft rug son complicados de encontrar (he caído), por lo tanto mi estrategia nos previene de los Hard rugs (aunque me baso del conocimiento de un tercero para ésto).
 
-El riesgo de esta estrategia **teóricamente** es del **4%** (si me hacen algún hard rug actualizaré este número).
+El riesgo de esta estrategia es alto recomiendo hacer tu propio research ([DYOR](https://www.youtube.com/watch?v=HCLWDGYnAzk&t=483s)).
 
-Confío mucho en las auditorías de la [rug doctor](https://bit.ly/JoinRugSteemer), (allí es dónde flaquea mi estrategia porque no estoy haciendo **mi propio research**, pero en algún momento haré mis propias auditorías), tomando esto en cuanta las formas en las que evitamos perder nuestro dinero son.
+Lo que yo hago para asegurar mis fondos es:
 
-1. Revisando que haya una auditoría en [rugdoc.io](https://rugdoc.io) del proyecto y no esté ni en **rojo ni en amarillo**
-1. Probando la liquidez
-	- Depositar una cantidad mínima en el pool/farm (yo lo hago con $1) e inmediatamente sacarlo inmediatamente, te deberá regresar el 96% completo del token
-	- Probar hacer una recolección (harvest) del token, luego ir al exchange (quickswap o sushi.swap) y convertirlo a estable 
-	- Ver que el precio del token sea similar en los exchanges que en el sitio web (si varía mucho quizá están maquillando los números para que metas más liquidez, esto no lo hace inseguro, pero lo hace difícil de manejar)
+1. Revisar que haya una **auditoría** de alguna empresa que valide que no se **pueden llevar tus fondos**.
+1. Prueba la liquidez
+	- Depositar una **cantidad mínima en el pool/farm** (yo lo hago con $1) e inmediatamente sacarlo, te deberá **regresar el 96%** completo del token
+	- Probar hacer una **recolección (harvest)** del token, luego ir al exchange (quickswap o sushi.swap) y **convertirlo a estable**. 
+	- Ver que el **precio del token** sea **similar en los exchanges** que en el **sitio web** (si varía mucho quizá están maquillando los números para que metas más liquidez, esto no lo hace inseguro, pero lo hace difícil de manejar)
 
-Recuerda realizar esta prueba muy seguido para que no se vuelen tus fondos.
+Recuerda **realizar** esta prueba muy **seguido** para que no se lleven tus fondos, si llega a suceder que no pasa tus cambios, métete a la comunidad del exchange.
 
-De momento RugDoctor es SAFU, pero quizá cambie en un futuro.
+Si te metes al telegram del exchange, absolutamente nadie te deberá contactar por privado, si lo hacen, **márcalo como spam y no le contestes**, que tu conversación sea pública para que si alguien ve algo phishy, te avise.
 
 
 ## Resultados
@@ -133,10 +132,11 @@ La **intención** es generar un **30% mensual**, de momento he logrado alrededor
 - Eres libre de mandarme tus comentarios para mejorar esta estrategia, además de que puedes hacer un pull request para poder afinar ésto
 - Mi estrategia irá mutando, intentaré mantener este blogpost actualizado
 
-> Si generas una **estrategia basada en ésta**, pero para otros contextos, por favor [compártemela en mi twitter](https://twitter.com/behagoras).
+> Si generas una **estrategia basada en ésta**, pero para otros contextos, por favor [compártemela en mi twitter](https://twitter.com/behagoras) o [GitHub](https://github.com/behagoras/master-blog/blob/master/contents/blog/estrategia-farming-en-matic.md) .
 
 > **Nada de ésto es consejo de inversión**, es una estrategia que me ha funcionado durante 1 mes, puede no funcionarte a tí, y puede que en algún **momento me deje de funcionar**, y **puede que pierda todo** por no tener en cuenta algo.
 
 ## Happy farming!
 
 ![HAppy Farming](https://media.giphy.com/media/RrU8f9lImvJja/source.gif)
+
